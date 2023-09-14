@@ -1,6 +1,6 @@
 # Custom Search Engine
 
-This project is a web search result engine and analysis tool designed to provide users with a refined and relevant list of search results. The motivation behind this project is that Google search results often contain many affiliate links trying to sell products instead of providing relevant information. 
+This project is a web search result engine and analysis tool designed to provide users with a refined and relevant list of search results. The motivation behind this project is that Google search results often contain affiliate links trying to sell products instead of providing relevant information, so I wanted to create a program to improve search results through filtering.
 
 The system starts by utilizing the Flask web framework to create a user-friendly web interface. Users can input search queries, triggering the execution of a search operation. The search is powered by a custom Python module that employs the Google Custom Search API, enabling the retrieval of search results for the specified query. 
 
