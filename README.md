@@ -1,4 +1,4 @@
-# Custom Search Engine
+# Custom Search Engine #
 
 This project is a web search result engine and analysis tool designed to provide users with a refined and relevant list of search results. The motivation behind this project is that Google search results often contain affiliate links trying to sell products instead of providing relevant information, so I wanted to create a program to improve search results through filtering.
 
