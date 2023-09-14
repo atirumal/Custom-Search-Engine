@@ -6,4 +6,4 @@ The system starts by utilizing the Flask web framework to create a user-friendly
 
 To manage and store the search results and related data, the project relies on an SQLite database accessed through the SQLite3 module in Python. The database schema includes tables for storing search results, with fields such as query, rank, link, title, snippet, and HTML content. The Pandas library is used to manipulate and work with DataFrames, facilitating data analysis and operations on the retrieved search results. Additionally, BeautifulSoup is employed to parse and extract information from the HTML content of search results.
 
-<img width="2173" alt="Screenshot 2023-09-14 at 11 07 57 AM" src="https://github.com/atirumal/Custom-Search-Engine/assets/78452887/0f4c13ac-2a4f-40a0-ac6c-336ca44e55ac">
+<img width="2167" alt="Screenshot 2023-09-14 at 11 09 38 AM" src="https://github.com/atirumal/Custom-Search-Engine/assets/78452887/d504a0b3-25a2-40fe-8124-eaf8189e5846">
