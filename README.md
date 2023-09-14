@@ -1,4 +1,4 @@
-<img width="1971" alt="Screenshot 2023-09-14 at 11 06 59 AM" src="https://github.com/atirumal/Custom-Search-Engine/assets/78452887/07300e33-3696-4eef-b0c4-e2c908a4c0e4"># Custom Search Engine
+# Custom Search Engine
 
 This project is a web search result engine and analysis tool designed to provide users with a refined and relevant list of search results. The motivation behind this project is that Google search results often contain affiliate links trying to sell products instead of providing relevant information, so I wanted to create a program to improve search results through filtering.
 
